@@ -6,7 +6,7 @@
 >The top portion of your HTML file when opened in a text editor may look like this.
 
 ## How to Style?
-Copy code from the CSS file and insert it after <pre><TITLE></pre> tag in your HTML file as follows:
+Copy code from the CSS file and insert it after <pre style="inline-block"><TITLE></pre> tag in your HTML file as follows:
 <pre>
 <STYLE>
   //css code
