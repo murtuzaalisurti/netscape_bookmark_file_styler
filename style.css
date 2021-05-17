@@ -1,0 +1,24 @@
+/* <STYLE> */
+    H1{
+        color: black;
+        font-size: 3rem;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    H3{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    DL{
+        border-left: 2px dashed rgb(144, 144, 144);
+        margin-left: 20px;
+    }
+    DT{
+        padding: 10px 10px;
+        border-bottom: 3px solid rgb(187, 187, 187);
+    }
+    A{
+        text-decoration: none;
+        font-family: 'Montserrat', sans-serif;
+        margin: 10px 10px;
+        color: rgb(93, 93, 93);
+    }
+/* </STYLE> */
